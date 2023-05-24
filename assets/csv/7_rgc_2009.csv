@@ -1,0 +1,11 @@
+﻿Conduir un vehicle de motor o un ciclomotor sense haver obtingut l'autorització preceptiva: ;1.1 ;MG ;500;250; 
+Conduir un vehicle de motor o un ciclomotor amb un permís o llicència que no l’habilita per fer-ho ;1.1 ;MG ;500;250;4
+Conduir un vehicle amb l'autorització administrativa caducada ;12.4 ;G ;200;100; 
+Conduir el vehicle ressenyat incomplint les condicions restrictives de la llicència de conducció o del permís de circulació (indicar condició incomplerta)  ;3.1 ;G ;200;100; 
+Conduir un vehicle a motor o ciclomotor sense haver obtingut mai permís o llicència ;1.1 ;MG ;500;250; 
+Conduir el vehicle ressenyat amb la llicència o el permís suspès  per decisió judicial ;3.2 ;G ;200;100;4
+Conduir el vehicle ressenyat amb la llicència o el permís no vigent per pèrdua total de punts ;3.2 ;G ;200;100; 
+Conduir un ciclomotor fabricat per viatjar-hi més d'una persona, portant un passatger, sense tenir l'edat requerida per fer-ho. ;4.2 ;L ;80;40; 
+Conduir un vehicle que realitza transport de mercaderies perilloses sense el certificat de formació o l'autorització especial, quan sigui necessari ;25.1 ;MG ;500;250;4
+Conduir un vehicle que realitza transport de mercaderies perilloses sense portar la corresponent autorització especial ;25.2 ;L ;80;40; 
+Conduir un vehicle que realitza transport de mercaderies perilloses amb l’autorització especial que l’habilita a l’efecte caducada ;28.1 ;G ;200;100; 
