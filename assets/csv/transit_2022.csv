@@ -331,7 +331,7 @@ RGC;91;2;C;1;Parar un vehicle de manera que impedeix la sortida o l'accés a un 
 RGC;91;2;C;2;Estacionar un vehicle de manera que impedeix la sortida o l'accés a un immoble de persones o animals, o de vehicles en un gual senyalitzat correctament.;912C;G;;;200 €;100 €
 RGC;91;2;D;1;Parar un vehicle de manera que s'obstaculitzi la normal utilització de les voreres rebaixades per a disminuïts físics.;91D1;G;;;200 €;100 €
 RGC;91;2;D;2;Estacionar un vehicle de manera que s'obstaculitzi la normal utilització de les voreres rebaixades per a disminuïts físics.;912D;G;;;200 €;100 €
-RGC;91;2;E;1;Parar el vehicle a les medianes, separacions, illetes o altres elements de canalització del trànsit. ;9,10E+02;G;;;200 €;100 €
+RGC;91;2;E;1;Parar el vehicle a les medianes, separacions, illetes o altres elements de canalització del trànsit.;91E1;G;;;200 €;100 €
 RGC;91;2;E;2;Estacionar el vehicle a les medianes, separacions, illetes o altres elements de canalització del trànsit. ;912E;G;;;200 €;100 €
 RGC;91;2;F;1;Parar un vehicle de manera que s'impedeix el gir autoritzat pel senyal corresponent.;91F1;G;;;200 €;100 €
 RGC;91;2;F;2;Estacionar un vehicle de manera que s'impedeix el gir autoritzat pel senyal corresponent.;912F;G;;;200 €;100 €
@@ -417,8 +417,8 @@ OM;35;1;D;1;Estacionar en zona d'horari limitat un vehicle col.locant el  compro
 OM;35;2;;;Estacionar en zona d'horari limitat gratuït un vehicle ultrapassant de l'horari indicat. ;M916;L;;;80 €;40 €
 RGC;94;2;A;29;Estacionar el vehicle en zona senyalitzada per a l'ús exclusiu de minusvàlids. ;942D;G;;;200 €;100 €
 RGC;94;2;E;5;Estacionar sobre la vorera.;942E;L;;;80 €;40 €
-RGC;94;2;E;6;Estacionar sobre la vorera creant perill, obstaculitzant greument la circulació, o constituïnt un risc per als vianants;9,40E+06;G;;;200 €;100 €
-RGC;94;2;E;4;Estacionar el vehicle resenyat en un passeig o resta de zones destinades al pas de vianants.;9,40E+03;G;;;200 €;100 €
+RGC;94;2;E;6;Estacionar sobre la vorera creant perill, obstaculitzant greument la circulació, o constituïnt un risc per als vianants;94E5;G;;;200 €;100 €
+RGC;94;2;E;4;Estacionar el vehicle resenyat en un passeig o resta de zones destinades al pas de vianants.;94E2;G;;;200 €;100 €
 RGC;94;2;F;2;Estacionar davant d'un gual senyalitzat correctament. ;942F;G;;;200 €;100 €
 RGC;94;2;G;2;Estacionar el vehicle en doble fila.;942G;G;;;200 €;100 €
 OM;26;4;;1;Estacionar en doble filera dificultant la recollida de contenidors. ;M917;L;;;80 €;40 €
