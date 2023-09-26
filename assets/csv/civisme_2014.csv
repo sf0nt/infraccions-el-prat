@@ -17,9 +17,9 @@
 78,17;Abocar residus líquids o cendres incandescents a l’interior dels contenidors de recollida d’escombraries domiciliaries, a la via pública, als camins, als canals i als espais naturals i/o agrícoles considerats especials;G;751;1.100;1.500
 78,18;No fer-se càrrec, les indústries i comerços, de la gestió dels seus residus, segons la normativa vigent ;G;751;1.100;1.500
 78,19;Caçar, matar ocells o altres animals i dur a terme activitats que perjudiquin la fauna general ;G;751;1.100;1.500
-78,2;Produir per acció o omissió pudors molestes, nocives o perjudicials per a persones o el medi ambient;G;751;1.100;1.500
+78,20;Produir per acció o omissió pudors molestes, nocives o perjudicials per a persones o el medi ambient;G;751;1.100;1.500
 78,21;Negar-se o resistir-se a la pasca inspectora i de vigilància de l'Administració, així com negar-se o resistir-se a facilitar les dades a les autortitats competents.;G;751;1.100;1.500
-78,2;Posar en funcionament aparells, instrumetns mecànics o vehicles precintats.;G;751;1.100;1.500
+78,22;Posar en funcionament aparells, instrumetns mecànics o vehicles precintats.;G;751;1.100;1.500
 78,23;Acampar amb qualsevol mitjà a la via pública o l'espai públic ;G;751;1.100;1.500
 78,24;Encendre foc, incloses barbacoes, en zones naturals o en temporades de prohibició ;G;751;1.100;1.500
 78,25;Permetre que els animals domèstis efectuin les seves miccions o deposicions en zones de joc infantil. ;G;751;1.100;1.500
@@ -42,7 +42,7 @@
 77,17;No respectar el descans del veïnat;L;100;350;750
 77,18;Tirar papers o deixalles fora de les papereres i embrutar la via pública de qualsevol altra manera;L;100;350;750
 77,19;Fer treballs o activitats, sense autorització, a la via pública o el mobiliari urbà;L;100;350;750
-77,2;Col—locar cartells o propaganda fora dels llocs habilitats a tal efecte i a l'arbrat públic;L;100;350;750
+77,20;Col—locar cartells o propaganda fora dels llocs habilitats a tal efecte i a l'arbrat públic;L;100;350;750
 77,21;Posar pancartes a l’enllumenat públic o altres elements urbans;L;100;350;750
 77,22;Produir sorolls que pertorbin el descans veïnal;L;100;350;750
 77,23;No respectar l’horari, ni l’ordre establert als espectacles públics;L;100;350;750
@@ -52,7 +52,7 @@
 77,27;No retirar els contenidors o sacs de runa en el temps establert a la llicència o que no es disposi de llicència;L;100;350;750
 77,28;No deixar neta de runes o residus la zona on estaven situats els contenidors o sacs de runes, o la zona on s’havien estat efectuant treballs o activitats;L;100;350;750
 77,29;Moure o desplaçar contenidors sota qualsevol concepte;L;100;350;750
-77,3;Abocar animals morts o restes d’animals a la via pública, canals, entorn natural o agrícola;L;100;350;750
+77,30;Abocar animals morts o restes d’animals a la via pública, canals, entorn natural o agrícola;L;100;350;750
 77,31;L’abandonar hams, sedals i altres residus a la sorra de les platges del municipi;L;100;350;750
 77,32;No recollir les deposicions dels animals, excepte els gossos pigalls;L;100;350;750
 77,33;Permetre que els animals domèstics efectuïn les seves miccions en les voreres, les façanes dels edificis i en el mobiliari urbà;L;100;350;750
@@ -72,7 +72,7 @@
 77,47;Utilitzar injustificadament els sistemes d'alarma o emergència;L;100;350;750
 77,48;Col•locar contenidors o sacs de runa sense permís municipal;L;100;350;750
 77,49;Accedir amb vehicles a motor als parcs públics o parcs naturals, a les platges o als espais naturals;L;100;350;750
-77,5;Fer barbacoes fora dels llocs autoritzats a l’efecte o sense prendre les degudes precaucions;L;100;350;750
+77,50;Fer barbacoes fora dels llocs autoritzats a l’efecte o sense prendre les degudes precaucions;L;100;350;750
 77,51;Danyar o maltractar qualsevol element del mobiliari urbà i contenidors de recollida de residus;L;100;350;750
 77,52;Danyar o maltractar l'arbrat, jardins i d'altres elements de la via pública o espais públics en general;L;100;350;750
 77,53;"Realitzar ""graffitis"" i pintades sense autorització";L;100;350;750
